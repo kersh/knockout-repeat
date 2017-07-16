@@ -1,0 +1,24 @@
+{
+  "name": "knockout-repeat",
+  "version": "2.1.0",
+  "description": "REPEAT binding for Knockout",
+  "main": "knockout-repeat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbest/knockout-repeat.git"
+  },
+  "keywords": [
+    "knockout",
+    "repeat",
+    "binding"
+  ],
+  "author": "Michael Best",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbest/knockout-repeat/issues"
+  },
+  "homepage": "https://github.com/mbest/knockout-repeat#readme"
+}
